@@ -2,7 +2,6 @@ h2{
     font-size: 170%;
     color: #800000;
     text-indent: 30px;
-
 }
 h3{
     font-size: 130%;
@@ -11,4 +10,18 @@ h3{
 }
 center{
     align-items: center;
+}
+a:hover{
+    font-style: italic;
+}
+body{
+    width: 600px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px;
+    border-color: #931420;
+    background-color: #fffded;
+    
 }
